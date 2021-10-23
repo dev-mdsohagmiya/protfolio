@@ -1,0 +1,46 @@
+// All variable
+
+
+
+
+
+
+
+//All function
+
+@mixin text-size ($value){
+    @if($value =="lg"){
+        font-size: 25px;
+    }
+}
+
+
+
+
+
+
+
+// All created  class
+
+
+
+
+
+
+
+// All CSS
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
